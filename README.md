@@ -24,17 +24,27 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **Procedure**
 
-/* write all the steps invloved */
+/* 1.Type the Verilog program in Quartus Prime to implement the 4-bit Serial-In Serial Out (SISO) Shift Register. 2.Compile and run the program to ensure the design is error-free. 3.Generate the RTL schematic to visualize the cascading D flip-flop connections and save it for documentation. 4.Create nodes for the serial input (SI), clock (CLK), and serial output (SO) to observe the shifting process during simulation. 5.Simulate the design for different input serial data patterns and observe the timing diagrams. */
 
 **PROGRAM**
 
 /* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
 
- Developed by: RegisterNumber:
+ Developed by:Akshaay Vardhan RegisterNumber:240073833
 */
+
+![WhatsApp Image 2024-12-26 at 10 13 25_a2dab289](https://github.com/user-attachments/assets/d41cb913-c907-421b-9f23-3519709b83a8)
+
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 
+![WhatsApp Image 2024-12-26 at 10 13 25_d3488f17](https://github.com/user-attachments/assets/aff98d11-b49b-4271-b9ff-5b18d135c464)
+
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 
+![WhatsApp Image 2024-12-26 at 10 13 24_db7775b0](https://github.com/user-attachments/assets/5e36c4d9-5e97-49a5-836a-8ca3ef3d5944)
+
 **RESULTS**
+
+Thus, the 4-bit Ripple Counter was successfully implemented, and its functionality was validated using the truth table.
+
